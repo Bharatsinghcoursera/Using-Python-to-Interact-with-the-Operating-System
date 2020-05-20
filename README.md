@@ -1,5 +1,7 @@
 You can use the Google Cloud Shell to connect to the Linux instances. Here is the link  for Google Cloud Console, kindly sign in with your personal Google account to use the Cloud Shell.
 
+https://accounts.google.com/ServiceLogin/signinchooser?service=cloudconsole&passive=1209600&osid=1&continue=https%3A%2F%2Fconsole.cloud.google.com%2F&followup=https%3A%2F%2Fconsole.cloud.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+
 Please follow the steps given below to explore any Linux lab:
 Once you have started the lab, open a new tab and open Google Cloud console.
 Inside the Google Cloud console, click on the Activate Cloud shell button.
